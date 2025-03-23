@@ -1,5 +1,5 @@
 # IntroDS
-2024fall
+2024fall， instructed by Professor Dan Nicolae (UChi).
 
 # IntroDS_final
 
