@@ -20,10 +20,9 @@ E. **Conclusion/Self-Assessment** What did you learn from analyzing this dataset
 
 ## 📁 Repository Structure
 ```
-├── data/             # Raw and processed datasets
-├── notebooks/        # Jupyter Notebooks with exploratory data analysis and modeling
-├── src/              # Python scripts for data processing and modeling
-├── reports/          # Project reports and documentation
+├── (data)             # Raw and processed datasets
+├── *.ipynb        # Jupyter Notebooks with exploratory data analysis and modeling 
+├── report.pdf          # Project reports and documentation
 ├── README.md         # Project overview and instructions
 ```
 
